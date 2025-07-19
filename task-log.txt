@@ -1,0 +1,124 @@
+Після додавання задачі
+[
+  {
+    "id": "mda27ig6y3z2p08jy1n",
+    "createdAt": "2025-07-19T09:42:31.974Z",
+    "completed": false,
+    "title": "Завершити домашнє завдання",
+    "priority": "high"
+  }
+]
+
+Після оновлення задачі
+[
+  {
+    "id": "mda27ig6y3z2p08jy1n",
+    "createdAt": "2025-07-19T09:42:31.974Z",
+    "completed": false,
+    "title": "Завершити складне домашнє завдання",
+    "priority": "medium"
+  }
+]
+
+Після позначення як виконаної
+[
+  {
+    "id": "mda27ig6y3z2p08jy1n",
+    "createdAt": "2025-07-19T09:42:31.974Z",
+    "completed": true,
+    "title": "Завершити складне домашнє завдання",
+    "priority": "medium"
+  }
+]
+
+Після видалення задачі
+[
+  {
+    "id": "mda27ig6y3z2p08jy1n",
+    "createdAt": "2025-07-19T09:42:31.974Z",
+    "completed": true,
+    "title": "Завершити складне домашнє завдання",
+    "priority": "medium"
+  }
+]
+
+Після undo видалення
+[
+  {
+    "id": "mda27ig6y3z2p08jy1n",
+    "createdAt": "2025-07-19T09:42:31.974Z",
+    "completed": true,
+    "title": "Завершити складне домашнє завдання",
+    "priority": "medium"
+  }
+]
+
+Після undo виконання задачі
+[
+  {
+    "id": "mda27ig6y3z2p08jy1n",
+    "createdAt": "2025-07-19T09:42:31.974Z",
+    "completed": false,
+    "title": "Завершити складне домашнє завдання",
+    "priority": "medium"
+  }
+]
+
+Після undo оновлення задачі
+[
+  {
+    "id": "mda27ig6y3z2p08jy1n",
+    "createdAt": "2025-07-19T09:42:31.974Z",
+    "completed": false,
+    "title": "Завершити домашнє завдання",
+    "priority": "high"
+  }
+]
+
+Після undo додавання задачі
+[]
+
+Після redo додавання задачі
+[
+  {
+    "id": "mda27ig6y3z2p08jy1n",
+    "createdAt": "2025-07-19T09:42:31.974Z",
+    "completed": false,
+    "title": "Завершити домашнє завдання",
+    "priority": "high"
+  }
+]
+
+Після redo оновлення задачі
+[
+  {
+    "id": "mda27ig6y3z2p08jy1n",
+    "createdAt": "2025-07-19T09:42:31.974Z",
+    "completed": false,
+    "title": "Завершити складне домашнє завдання",
+    "priority": "medium"
+  }
+]
+
+Після redo виконання задачі
+[
+  {
+    "id": "mda27ig6y3z2p08jy1n",
+    "createdAt": "2025-07-19T09:42:31.974Z",
+    "completed": true,
+    "title": "Завершити складне домашнє завдання",
+    "priority": "medium"
+  }
+]
+
+Після redo видалення задачі
+[
+  {
+    "id": "mda27ig6y3z2p08jy1n",
+    "createdAt": "2025-07-19T09:42:31.974Z",
+    "completed": true,
+    "title": "Завершити складне домашнє завдання",
+    "priority": "medium"
+  }
+]
+
