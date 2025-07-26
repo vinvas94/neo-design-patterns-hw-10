@@ -10,7 +10,7 @@ export class RemoveTaskCommand extends AbstractCommand {
   }
 
   execute(): void {
-    this.removedTask = this.taskList.getAllTasks().find(t => t.id === this.taskId);
+    this.removedTask = this.taskList.removeTask(this.taskId);
   }
 
   undo(): void {
